@@ -11,8 +11,15 @@
 lub
 - git push origin main //main - nazwa brancha
 
+Branch - nowa sciezka:
+- tworzysz nową sciezke
+- edytujesz ją 
+- mozesz skierwac na główną lub odrzucić [poprzez strone]
+
 Tworznie nowego brancha
 - git checkout -b nazwa-brancha
 
 Sprawdzanie statusu 
 - git status
+
+Cos nowego
