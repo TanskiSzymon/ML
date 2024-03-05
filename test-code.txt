@@ -1,5 +1,18 @@
-Code test hear
-update test
+1. Komendy polaczenia z repozytorium 
+-
+-
+2. Save pliku
+3. Dodawanie plików do repozytorium
+- git add . //. oznacza ze wszystkie
+4. Zrobienie commita
+- git commit -am "tresc"
+5. Pushowanie 
+- git push 
+lub
+- git push origin main //main - nazwa brancha
 
+Tworznie nowego brancha
+- git checkout -b nazwa-brancha
 
-ttt
+Sprawdzanie statusu 
+- git status
