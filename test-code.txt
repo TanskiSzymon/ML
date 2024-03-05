@@ -22,4 +22,4 @@ Tworznie nowego brancha
 Sprawdzanie statusu 
 - git status
 
-Cos nowego
+
