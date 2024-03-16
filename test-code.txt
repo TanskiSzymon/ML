@@ -21,5 +21,3 @@ Tworznie nowego brancha
 
 Sprawdzanie statusu 
 - git status
-
-Ciekawe co teraz 
