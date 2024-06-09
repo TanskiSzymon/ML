@@ -10,6 +10,7 @@ The dataset contains brain MRI images divided into two classes:
 Training data constitutes 80% of the dataset, while testing data constitutes 20%.
 
 MRI Image Examples
+
 ![image](https://github.com/TanskiSzymon/ML/assets/108231030/7abc72cf-4e35-42c9-b398-023b5bf40991)
 
 Figure 1. MRI images classified as: 1 – yes and 2 – no.
