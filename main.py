@@ -1,3 +1,6 @@
+# Wymagane jest pobranie danych z:
+# https://www.kaggle.com/datasets/luluw8071/brain-tumor-mri-datasets
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
