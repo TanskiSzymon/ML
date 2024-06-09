@@ -2,7 +2,7 @@ Brain MRI Image Classification using Convolutional Neural Network
 Project Description
 This project aims to classify brain MRI images using a Convolutional Neural Network (CNN). The primary goal is to detect the presence or absence of specific features in brain MRI images. The model leverages CNN architecture to effectively recognize patterns in image data.
 
-Data
+Data - https://www.kaggle.com/datasets/luluw8071/brain-tumor-mri-datasets
 The dataset contains brain MRI images divided into two classes:
 
 "yes": images containing certain features.
